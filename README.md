@@ -1,0 +1,3 @@
+Dev Detective is a web-based application that helps users investigate GitHub profiles by fetching and displaying key developer information in a clean, intuitive interface. By simply entering a GitHub username, users can view profile details such as repositories, followers, following count, bio, location, and social links in real time using the GitHub API.
+
+The project focuses on API integration, asynchronous JavaScript, and responsive UI design, making it a practical example of how real-world developer tools are built. Dev Detective emphasizes usability, error handling (like invalid usernames), and modern frontend practices to deliver a smooth and informative user experience
